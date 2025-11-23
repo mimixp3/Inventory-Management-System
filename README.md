@@ -55,10 +55,3 @@ Team
 - [Elham Abbasi]-[20240005699]
 - [Negin Mirzajani]-[20240004675]
 
----
-
-## **Step 6: Copy the URL**
-
-Your repo URL will be:
-```
-https://github.com/[your-username]/inventory-management-system
