@@ -50,8 +50,5 @@ Console application for managing inventory using JAVA with CRUD operations, acti
 - **StorageFull**: Thrown when inventory reaches maximum capacity (50 items)
 - **InvalidInput**: Custom validation errors
   
-Team
-- [Nazla Chy]-[20240004973]
-- [Elham Abbasi]-[20240005699]
-- [Negin Mirzajani]-[20240004675]
+
 
